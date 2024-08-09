@@ -50,7 +50,6 @@ https://gat.zhoujie218.top/litv/4gtv-4gtv040
 https://gat.zhoujie218.top/litv/4gtv-4gtv080
 #EXTINF:-1 tvg-id="中視菁采台" tvg-name="中視菁采台" tvg-logo="https://assets.livednow.com/logo/中視菁采台.png" group-title="新聞財經", 中視菁采台
 https://gat.zhoujie218.top/litv/4gtv-4gtv064
-
 #EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://assets.livednow.com/logo/台視.png" group-title="新聞財經", 台視
 https://gat.zhoujie218.top/litv/4gtv-4gtv066
 #EXTINF:-1 tvg-id="台視新聞台" tvg-name="台視新聞台" tvg-logo="https://assets.livednow.com/logo/台視新聞台.png" group-title="新聞財經", 台視新聞台
@@ -78,6 +77,58 @@ https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 tvg-name="大爱2台" tvg-id="大爱2台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Daai2.png" group-title="港·澳·台", 大爱2台
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 tvg-id="靖天戲劇台" tvg-name="靖天戲劇台" tvg-logo="https://assets.livednow.com/logo/靖天戲劇台.png" group-title="電影戲劇", 靖天戲劇台
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆堆",埋堆堆 𝟙
+http://live.iill.top/huya.php?id=23740156
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆堆",埋堆堆 𝟚
+http://live.iill.top/huya.php?id=23749096
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆堆",埋堆堆 𝟛
+http://live.iill.top/huya.php?id=23735126
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆堆",埋堆堆 𝟜
+http://live.iill.top/huya.php?id=23903123
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆堆",埋堆堆 𝟝
+http://live.iill.top/huya.php?id=23734169
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆堆",埋堆堆 𝟞
+http://live.iill.top/huya.php?id=23863804
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆堆",埋堆堆 𝟟
+http://live.iill.top/huya.php?id=23865080
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆堆",埋堆堆 𝟠
+http://live.iill.top/huya.php?id=23864973
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆堆",埋堆堆 𝟡
+http://live.iill.top/huya.php?id=23903130
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆堆",埋堆堆 𝟙𝟘
+http://live.iill.top/huya.php?id=23860039
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆堆",埋堆堆 𝟙𝟙
+http://live.iill.top/huya.php?id=23903183
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆堆",埋堆堆 𝟙𝟚
+http://live.iill.top/huya.php?id=23903196
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆堆",埋堆堆 𝟙𝟛
+http://live.iill.top/huya.php?id=23728674
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆堆",埋堆堆 𝟙𝟜
+http://live.iill.top/huya.php?id=23865036
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆堆",埋堆堆 𝟙𝟝
+http://live.iill.top/huya.php?id=23829543
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆堆",埋堆堆 𝟙𝟞
+http://live.iill.top/huya.php?id=23865161
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆堆",埋堆堆 𝟙𝟟
+http://live.iill.top/huya.php?id=23865058
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆堆",埋堆堆 𝟙𝟠
+http://live.iill.top/huya.php?id=23824164
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆堆",埋堆堆 𝟙𝟡
+http://live.iill.top/huya.php?id=23863796
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆堆",埋堆堆 𝟚𝟘
+http://live.iill.top/huya.php?id=23734183
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆堆",埋堆堆 𝟚𝟙
+http://live.iill.top/huya.php?id=23728660
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆堆",埋堆堆 𝟚𝟚
+http://live.iill.top/huya.php?id=23865142
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆堆",埋堆堆 𝟚𝟛
+http://live.iill.top/huya.php?id=23734246
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆堆",埋堆堆 𝟚𝟜
+http://live.iill.top/huya.php?id=23865171
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆堆",埋堆堆 𝟚𝟝
+http://live.iill.top/huya.php?id=23734256
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆堆",埋堆堆 𝟚𝟞
+http://live.iill.top/huya.php?id=23749083
 https://gat.zhoujie218.top/litv/4gtv-4gtv058
 #EXTINF:-1 tvg-id="靖天資訊台" tvg-name="靖天資訊台" tvg-logo="https://assets.livednow.com/logo/靖天資訊台.png" group-title="新聞財經", 靖天資訊台
 https://gat.zhoujie218.top/litv/4gtv-4gtv065
