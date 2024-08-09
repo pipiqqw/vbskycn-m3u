@@ -9,6 +9,8 @@ https://gat.zhoujie218.top/litv/4gtv-4gtv009
 https://gat.zhoujie218.top/litv/4gtv-4gtv109
 #EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://assets.livednow.com/logo/華視新聞.png" group-title="新聞財經", 華視新聞
 https://gat.zhoujie218.top/litv/4gtv-4gtv052
+#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://assets.livednow.com/logo/華視.png" group-title="新聞財經", 華視
+https://gat.zhoujie218.top/litv/4gtv-4gtv041
 #EXTINF:-1 tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="https://assets.livednow.com/logo/中視新聞台.png" group-title="新聞財經", 中視新聞台
 https://gat.zhoujie218.top/litv/4gtv-4gtv074
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
@@ -16,8 +18,6 @@ https://gat.zhoujie218.top/litv/4gtv-4gtv074
 https://gat.zhoujie218.top/litv/4gtv-4gtv152
 #EXTINF:-1 tvg-id="東森財經新聞" tvg-name="東森財經新聞" tvg-logo="https://assets.livednow.com/logo/東森財經新聞.png" group-title="新聞財經", 東森財經新聞
 https://gat.zhoujie218.top/litv/4gtv-4gtv153
-#EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="新聞財經", 民視
-https://gat.zhoujie218.top/litv/4gtv-4gtv155
 #EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://assets.livednow.com/logo/寰宇新聞台.png" group-title="新聞財經", 寰宇新聞台
 https://gat.zhoujie218.top/litv/litv-longturn14
 #EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://assets.livednow.com/logo/寰宇新聞台灣台.png" group-title="新聞財經", 寰宇新聞台灣台
@@ -36,6 +36,8 @@ https://gat.zhoujie218.top/4gtv/169
 https://gat.zhoujie218.top/litv/4gtv-4gtv003
 #EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://assets.livednow.com/logo/民視新聞台.png" group-title="新聞財經", 民視新聞台
 https://gat.zhoujie218.top/litv/litv-ftv13
+#EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="新聞財經", 民視
+https://gat.zhoujie218.top/litv/4gtv-4gtv155
 #EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://assets.livednow.com/logo/民視台灣台.png" group-title="新聞財經", 民視台灣台
 https://gat.zhoujie218.top/litv/4gtv-4gtv001
 #EXTINF:-1 tvg-name="民视新闻" tvg-id="民视新闻" tvg-logo="https://live.fanmingming.com/tv/民视新闻台.png" group-title="新聞財經", 民视新闻
@@ -48,8 +50,7 @@ https://gat.zhoujie218.top/litv/4gtv-4gtv040
 https://gat.zhoujie218.top/litv/4gtv-4gtv080
 #EXTINF:-1 tvg-id="中視菁采台" tvg-name="中視菁采台" tvg-logo="https://assets.livednow.com/logo/中視菁采台.png" group-title="新聞財經", 中視菁采台
 https://gat.zhoujie218.top/litv/4gtv-4gtv064
-#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://assets.livednow.com/logo/華視.png" group-title="新聞財經", 華視
-https://gat.zhoujie218.top/litv/4gtv-4gtv041
+
 #EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://assets.livednow.com/logo/台視.png" group-title="新聞財經", 台視
 https://gat.zhoujie218.top/litv/4gtv-4gtv066
 #EXTINF:-1 tvg-id="台視新聞台" tvg-name="台視新聞台" tvg-logo="https://assets.livednow.com/logo/台視新聞台.png" group-title="新聞財經", 台視新聞台
